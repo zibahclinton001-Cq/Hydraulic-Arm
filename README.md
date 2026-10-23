@@ -1,5 +1,5 @@
 # Hydraulic-Arm
-# Hydraulic Arm Robot - PH
+# Hydraulic Arm Robot 
 
 Industrial robot arm simulation built 100% on Android phone.
 
